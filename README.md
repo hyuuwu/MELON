@@ -16,3 +16,7 @@ To build the image, assuming you are inside the source directory:
 - [ ] Be able to set wifi settings 
 - [ ] Peformance enhancing (Optifine? Sodium+Phosphor+Lithium?)
 - [ ] Hardware support (Especially Nvidia)
+- [ ] Instead of supporting only mc support tf2
+- [ ] pre bundled saw: the videogame w/wine
+
+UPGRADED BY HYU 
